@@ -5,13 +5,27 @@
 <title>Meaning of life</title>
 <meta charset="UTF-8">
 <script>
-  SA.redirection_mobile ({
-    mobile_prefix : "mobile",
-    keep_path : true,
-    keep_query : true
-  });
+	SA.redirection_mobile ({
+		mobile_prefix : "mobile",
+		keep_path : true,
+		keep_query : true
+	});
 </script>
 <style>
+#link {
+  /*color:  #74725F;
+  */
+  color: #000000;
+  font-weight: bold;
+}
+.sunset{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  max-width: 1200px;
+  height: 1080px;
+  align-items: center;
+}
 .mouth {
   height:50px;
   width: auto;
@@ -48,22 +62,22 @@ li a {
   text-decoration: none;
 }
 li a:hover {
-  text-decoration-color: #74725F;
+  color: #74725F;
 }
 .container2 {
   margin-left: auto;
   margin-right: auto;
   margin-top: 0px;
-  width: 1200px;
-  height: 183px;
+  max-width: 1200px;
+  height: 233px;
 }
 .container1 {
   margin-top: 70px;
   margin-left: auto;
   margin-right: auto;
   align-items: center;
-  width: 1000px;
-  height: 183px;
+  max-width: 1000px;
+  height: 233px;
 }
 .head  {
   margin-left:auto;
@@ -78,14 +92,15 @@ li a:hover {
 }
 </style>
 </head>
-<body>
+<body bgcolor=#E9EBEE>
   <div class="container2">
     <div class="container1">
       <div class="head">
-      <img src="logo_2_dark.png" alt="In search of -the meaning  of life" class="logo">
+      <img src="logo_2_dark.png" alt="Sarah Chang" class="logo">
       </div>
       <div class="mouth">
         <ul>
+          <li><a id="link" class="active" href='#'>Home</a></li>
           <li><a class="active" href='love.html'>Love</a></li>
           <li><a class="active" href='philosophy.html'>Philosophy</a></li>
           <li><a class="active" href='42.html'>42</a></li>
@@ -94,11 +109,13 @@ li a:hover {
           <li><a class="active" href='physics.html'>Physics</a></li>
           <li><a class="active" href='sprituality.html'>Sprituality</a></li>
           <li><a class="active" href='matrix.html'>Matrix</a></li>
-          <li><a class="active" href='stringtheory.html'>String Theory</a></li>
           <li><a class="active" href='more.html'>More</a></li>
         </ul>
       </div>
     </div>
+  </div>
+  <div class="sunset">
+
   </div>
 </body>
 </html>
