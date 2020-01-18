@@ -15,7 +15,12 @@
 </script>
 
 <style>
-
+p{
+	font-family:  "Candara";
+	font-size: 1.2rem;
+	color: black;
+  font-weight: bold;
+}
 #link {
   color: #000000;
   font-weight: bold;
@@ -34,22 +39,28 @@
 }
 .mouth {
   height:50px;
+	text-align: center;
   width: auto;
   margin-top: 50px;
+}
+.mouth2 {
+  height:50px;
+	text-align: center;
+  width: auto;
 }
 ul {
   /*
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  */
-  font-family: 'Didact Gothic';
+  left:50%;*/
+  text-align:center;
+	font-family: 'Didact Gothic';
+  float:center;
+	display: inline-block;
   clear:left;
-  float:left;
   list-style:none;
   margin:0;
   padding:0;
   position:relative;
-  left:50%;
-  text-align:center;
 }
 li {
   display:block;
@@ -58,7 +69,6 @@ li {
   margin:0;
   padding:0;
   position:relative;
-  right:50%;
 }
 li a {
   display: block;
@@ -97,9 +107,13 @@ li a:hover {
   margin: auto;
   height: 100%;
 }
+
+
+
+
 </style>
 </head>
-<body bgcolor=#E9EBEE font-size=calc()>
+<body bgcolor=#E9EBEE>
   <div class="container2">
     <div class="container1">
       <div class="head">
@@ -118,13 +132,18 @@ li a:hover {
           <li><a class="active" href='matrix.html'>Matrix</a></li>
           <li><a class="active" href='more.html'>More</a></li>
         </ul>
-        <ul>
-          <li><a id="link" class="active" href='sunset.html'>Sun</a></li>
-        </ul>
+				<div class="mouth2 sceneElement" data-viewport=0>
+					<ul id="test">
+						<li><a id="link" class="active" href='sunset.html'>Sun</a></li>
+					</ul>
+			  </div>
       </div>
     </div>
   </div>
   <div class="sunset">
+		<p align="center">
+			Some things doesn't fit in but they are there and beautiful.
+		</p>
     <img src="images/sunset_1.jpg" class="image">
   </div>
 </body>
