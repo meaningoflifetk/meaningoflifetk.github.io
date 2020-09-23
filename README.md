@@ -1,4 +1,4 @@
 # meaningoflifetk.github.io
-Check meaningoflife.tk
+Check themeaningoflife.tk
 
 This is a project I was meant to do sometime in my life, So I started it.
