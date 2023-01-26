@@ -1,6 +1,7 @@
 #+TITLE: In search of meaning of life
 #+OPTIONS: html-postamble:"%t"
 #+HTML_HEAD_EXTRA: <meta charset="utf-8">
+
 * Home
 
 Join me, Love Grover, on my journey as I search for the meaning of life. Along the way, I may rely on the assistance of ChatGPT to help me express my thoughts more clearly, as English is not my first language. Specifically, I find ChatGPT's language formatting capabilities to be particularly useful in refining the structure and wording of my content.
@@ -32,12 +33,37 @@ In conclusion, my love for stories and the characters within them has been a con
 
 *** Rama vs Ocean
 
-Fury raged within Lord Rama, the scion of the Sun, as he stood at the brink of the tumultuous ocean. His people were suffering, and his beloved wife Sita had been taken by the accomplished yet nefarious pandit, Ravana. Despite his vast knowledge of shastras, including science, political science, and the arts, he had become blinded by his own ego, and his actions had turned nefarious. Rama knew that the only way to reach Lanka and rescue Sita was to cross the ocean, and he needed a path to do that. His determination to succeed in his mission was unshakable, and he knew that with his unwavering willpower and focus, he could overcome any obstacle. He was guided by his deep sense of duty and moral code, and his devotion to the divine was unyielding.
+Fury raged within Lord Rama, the scion of the Sun, as he stood at the brink of the tumultuous ocean. His people were suffering, and his beloved wife Sita had been taken by the accomplished yet nefarious pandit, Ravana. Despite his vast knowledge of shastras, including science, political science, and the arts, he had become blinded by his own ego, and his actions had turned nefarious. Rama knew that the only way to reach Lanka and rescue Sita was to cross the ocean, and he needed a path to do that. His determination to succeed in his mission was unshakable, and he knew that with his unwavering willpower and focus, he could overcome any obstacle. He was guided by his deep sense of duty and moral code, and his determination to succeed in his mission was unyielding.
 
 As he loaded his arrow, the ocean trembled beneath him, a testament to the immense power and fury that he held within him. The god of the ocean knew that he had to act fast. "Forgive me, Rama," boomed a voice across the water, "I have not been attentive to your offerings. I have been in deep yogic state myself, doing offerings to you and not realizing the passage of time. Now, I see the urgency of your request, and I am honored to offer you a way to cross the ocean. I will guide you to two intelligent engineers, Nal and Neel, who are part of King Sughreev's Vanar Sena, your allies. They will make it possible for you to cross over to Lanka with your army."
 
 Rama's face broke into a smile, and he felt a sense of triumph and purpose. He knew that he had the blessings of the god of the ocean, and with his army led by his ally King Sughreev, he set out on his journey. The Vanar Sena, adorned in monkey makeup and artificial tails, set out behind him, ready to fight and conquer in the name of their leader, Lord Rama. Together, they marched towards Lanka, with the blessings of the god of the ocean and the determination to succeed in their mission.
 
-As the embodiment of righteousness and honor, Rama's willpower, focus, and determination are truly unmatched. His unwavering devotion to the divine and his deep sense of duty and moral code have earned him the respect and reverence of even the gods, making him the most powerful being in the universe. His strength, courage and unwavering commitment to righteousness will be remembered forever, inspiring future generations to be strong, courageous and unwavering in the pursuit of righteousness.
+As the embodiment of righteousness and honor, Rama's willpower, focus, and determination are truly unmatched. His unwavering unwavering commitment to righteousness and his deep sense of duty and moral code have earned him the respect and reverence of even the gods, making him the most powerful being in the universe. His strength, courage and unwavering commitment to righteousness will be remembered forever, inspiring future generations to be strong, courageous and unwavering in the pursuit of righteousness.
 
 ****  Why this story?
+- Answer by ChatGPT:
+  The story of Lord Rama and his journey to rescue his wife Sita from the demon king Ravana showcases your perspective on the power of determination, willpower, and moral code. The story illustrates how Rama's unwavering commitment to righteousness and duty led to him earning the respect and reverence of even the gods, and how his strength, courage, and determination serve as an inspiration for future generations to be unwavering in the pursuit of righteousness. The story also highlights the importance of allies and support in achieving one's goals, as Rama's journey was made possible with the help of King Sughreev and his Vanar Sena. This story has had a profound impact on your life and way of thinking, as it has instilled in you a sense of purpose, determination, and the importance of moral code in achieving one's goals. Overall, the story of Rama and Sita reinforced the idea of perseverance and the importance of moral values.
+#+begin_export html
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = meaningoflifetk.github.io;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = index.html; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://meaning-of-life.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//meaning-of-life.disqus.com/count.js" async></script>
+#+end_export
