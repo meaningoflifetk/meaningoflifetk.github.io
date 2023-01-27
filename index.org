@@ -50,9 +50,9 @@ As the embodiment of righteousness and honor, Rama's willpower, focus, and deter
 <div id="cusdis_thread"
   data-host="https://cusdis.com"
   data-app-id="99654868-1015-4c8f-ab10-b6e321aa479a"
-  data-page-id="{{ PAGE_ID }}"
-  data-page-url="{{ PAGE_URL }}"
-  data-page-title="{{ PAGE_TITLE }}"
+  data-page-id="{{ index-rama-story }}"
+  data-page-url="{{ meaningoflifetk.github.io }}"
+  data-page-title="{{ Home }}"
 ></div>
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 #+end_export
