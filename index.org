@@ -2,6 +2,8 @@
 #+OPTIONS: html-postamble:"%t"
 #+HTML_HEAD_EXTRA: <meta charset="utf-8">
 
+
+
 * Home
 
 Join me, Love Grover, on my journey as I search for the meaning of life. Along the way, I may rely on the assistance of ChatGPT to help me express my thoughts more clearly, as English is not my first language. Specifically, I find ChatGPT's language formatting capabilities to be particularly useful in refining the structure and wording of my content.
@@ -45,25 +47,12 @@ As the embodiment of righteousness and honor, Rama's willpower, focus, and deter
 - Answer by ChatGPT:
   The story of Lord Rama and his journey to rescue his wife Sita from the demon king Ravana showcases your perspective on the power of determination, willpower, and moral code. The story illustrates how Rama's unwavering commitment to righteousness and duty led to him earning the respect and reverence of even the gods, and how his strength, courage, and determination serve as an inspiration for future generations to be unwavering in the pursuit of righteousness. The story also highlights the importance of allies and support in achieving one's goals, as Rama's journey was made possible with the help of King Sughreev and his Vanar Sena. This story has had a profound impact on your life and way of thinking, as it has instilled in you a sense of purpose, determination, and the importance of moral code in achieving one's goals. Overall, the story of Rama and Sita reinforced the idea of perseverance and the importance of moral values.
 #+begin_export html
-<div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = meaningoflifetk.github.io;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = index.html; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://meaning-of-life.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-<script id="dsq-count-scr" src="//meaning-of-life.disqus.com/count.js" async></script>
+<div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="99654868-1015-4c8f-ab10-b6e321aa479a"
+  data-page-id="{{ PAGE_ID }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 #+end_export
